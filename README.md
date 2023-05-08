@@ -19,7 +19,7 @@
   - I am working a SW Delevoper Consultant for SALT.
   - I am active on HAckerRank, LeetCode and Code Wars
   - In my free time i like to walk in the nature with my dogs, training and playing videogames
-  - My contacts are: [![Linkedin Badge](https://img.shields.io/badge/debe82-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marco-debernardi-0292a3146)
+  - My contacts are: [![Linkedin Badge](https://img.shields.io/badge/Marco_Debernardi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marco-debernardi-0292a3146)
   
   ---
   ### Languages and Tools :  
