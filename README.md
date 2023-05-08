@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="www.linkedin.com/in/marco-debernardi-0292a3146">
+    <a href="https://www.linkedin.com/in/marco-debernardi-0292a3146">
       <img src="https://img.shields.io/badge/Marco_Debernardi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -19,7 +19,7 @@
   - I am working a SW Delevoper Consultant for SALT.
   - I am active on HAckerRank, LeetCode and Code Wars
   - In my free time i like to walk in the nature with my dogs, training and playing videogames
-  - My contacts are: [![Linkedin Badge](https://img.shields.io/badge/Marco_Debernardi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marco-debernardi-0292a3146)
+  - My contacts are: [![Linkedin Badge](https://img.shields.io/badge/Marco_Debernardi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-debernardi-0292a3146)
   
   ---
   ### Languages and Tools :  
