@@ -1,4 +1,28 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+
+<div id="badges">
+  <a href="www.linkedin.com/in/marco-debernardi-0292a3146">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-debe82&style=flat-square&color=blue" alt=""/>
+
+
+
+
+
+
 ### Hi there 👋
+</div>
+
+
+
+
+
+
+
 
 <!--
 **debe82/debe82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
