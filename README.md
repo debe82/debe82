@@ -8,6 +8,7 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=your-github-debe82&style=flat-square&color=blue" alt=""/>
+  Creating something from nothing, one line of code at time.
 </div>
 
 <div id="About">
