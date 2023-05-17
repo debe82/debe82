@@ -19,8 +19,8 @@
   ### About me:
   I am a Java Full Stack Developer from Italy, recently (March 2022) moved to Sweden.
   - I am working a SW Delevoper Consultant for SALT.
-  - I am active on HAckerRank, LeetCode and Code Wars
-  - In my free time i like to walk in the nature with my dogs, role playing, training and playing videogames
+  - I am active on HackerRank, LeetCode and Code Wars.
+  - In my free time i like to walk in the nature with my dogs, role playing, training and playing videogames.
   - My contacts are: [![Linkedin Badge](https://img.shields.io/badge/Marco_Debernardi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-debernardi-0292a3146)
   
   ---
