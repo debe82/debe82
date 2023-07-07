@@ -38,6 +38,7 @@
    <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="80" height="80"/>&nbsp;
+     <img src="E:\Programming\Cobol/cobol-tutorial.png" title="Cobol" alt="Cobol" width="80" height="80"/>&nbsp;
   </div>
 </div>
 
